@@ -1,6 +1,7 @@
 package com.nnxy.controller;
 
 public class UserController {
-	public int id;
-
+	public void test(){
+		System.out.println("hello world!");
+	}
 }
